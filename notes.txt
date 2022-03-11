@@ -1,0 +1,2 @@
+#Run all Python unit test cases for all classes extended from unittest.TestCase class
+python -m unittest -v
